@@ -1,0 +1,5 @@
+/env_rag
+.env
+
+/model/BioMistral-7B-DARE-Q4_K_M.gguf
+
